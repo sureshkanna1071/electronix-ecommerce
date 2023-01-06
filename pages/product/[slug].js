@@ -111,5 +111,5 @@ export const getStaticPaths = async () => {
     }
   }
 
-export default productDetails
+export default ProductDetails
 
